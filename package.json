@@ -1,7 +1,10 @@
 {
-  "name": "prueba_bootstrap",
-  "version": "0.0.0",
-  "private": true,
+  "name": "base_project_express_bootstrap",
+  "authors": [
+    "Rafael Minguet García <rminguet@gmail.com>"
+  ],
+  "description": "Proyecto base con node, express, bootstrap y swig",
+  "version": "0.0.1",
   "scripts": {
     "start": "node ./bin/www"
   },

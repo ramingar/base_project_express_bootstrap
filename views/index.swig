@@ -4,7 +4,7 @@
 
 {% block head %}
   {% parent %}
-  <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
 {% endblock head %}
 
 {% block content %}

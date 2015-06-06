@@ -1,0 +1,19 @@
+{
+  "name": "base_project_express_bootstrap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ramingar/base_project_express_bootstrap",
+  "authors": [
+    "Rafael Minguet García <rminguet@gmail.com>"
+  ],
+  "description": "Proyecto base con node, express, bootstrap y swig",
+  "keywords": [
+    "node",
+    "express",
+    "bootstrap",
+    "swig"
+  ],
+  "license": "Apache GPL v2",
+  "dependencies": {
+    "bootstrap": "*"
+  }
+}
